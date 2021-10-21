@@ -1,0 +1,9 @@
+[submodule "themes/hugo-apero"]
+	path = themes/hugo-apero
+	url = git@github.com:hugo-apero/hugo-apero.git
+[submodule "submodules/dots_blogdown"]
+	path = submodules/dots_blogdown
+	url = git@github.com:mikedecr/dots_blogdown
+[submodule "submodules/imgs_self"]
+	path = submodules/imgs_self
+	url = git@github.com:mikedecr/imgs_self
