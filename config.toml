@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://mikedecr.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Michael DeCrescenzo"
