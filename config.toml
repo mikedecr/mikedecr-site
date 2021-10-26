@@ -3,7 +3,7 @@ theme = "hugo-apero"
 languageCode = "en"
 title = "Michael DeCrescenzo"
 author = "Michael DeCrescenzo"
-copyright = "&copy; Michael DeCrescenzo. Headshot illustration by Shayenna Telles." # set to override the auto generated copyright using org info and now year
+copyright = "&copy; Michael DeCrescenzo." # set to override the auto generated copyright using org info and now year
 
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus

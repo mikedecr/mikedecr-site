@@ -1,7 +1,7 @@
 ---
 ## Configure page content in wide column
 title: "What I do:" # leave blank to exclude
-number_featured: 2 # pulling from mainSections in config.toml
+number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
@@ -14,7 +14,7 @@ intro: |
     >
     > &rarr; &nbsp; and high-powered computing tools
 
-    to study markets, build predictive signals, and develop principled trading strategies that go _**very**_ fast.
+    to study markets, develop predictive signals, and build principled trading strategies that go _very_ fast.
     
 show_outro: true
 outro: |
