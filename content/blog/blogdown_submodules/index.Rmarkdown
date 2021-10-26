@@ -2,7 +2,7 @@
 author: Michael DeCrescenzo
 categories: 
 date: "2021-10-22"
-draft: true
+draft: false
 layout: single
 tags:
 - computing
