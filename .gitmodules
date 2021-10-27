@@ -7,6 +7,4 @@
 [submodule "submodules/imgs_self"]
 	path = submodules/imgs_self
 	url = git@github.com:mikedecr/imgs_self
-[submodule "content/blog"]
-	path = content/blog
-	url = https://github.com/mikedecr/blog_posts
+
