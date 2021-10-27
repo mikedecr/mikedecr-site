@@ -1,5 +1,5 @@
 ---
-title: Blog Posts
+title: Recent Blog Posts
 author: Michael DeCrescenzo
 description: "Statistics, machine learning, research practice, and computing\n"
 
@@ -11,7 +11,7 @@ sidebar:
       Notes on statistics, machine learning, computing, and research practice. 
       Sometimes from a Bayesian point of view.
   text_link_label: ''
-    # "Subscribe via RSS \n \n"
+    # "Subscribe with RSS"
   text_link_url: /index.xml
   show_sidebar_adunit: true
 

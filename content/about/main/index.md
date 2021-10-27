@@ -1,7 +1,7 @@
 ---
 ## Configure page content in wide column
 title: "What I do:" # leave blank to exclude
-number_featured: 1 # pulling from mainSections in config.toml
+number_featured: 2 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
@@ -18,7 +18,7 @@ intro: |
     
 show_outro: true
 outro: |
-    #### A little more...
+    ### A little more...
 
     I have a Ph.D. in political science from the University of Wisconsin–Madison, where I was a graduate affiliate of the [Elections Research Center](https://elections.wisc.edu/).
 
