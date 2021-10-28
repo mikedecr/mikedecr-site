@@ -33,7 +33,7 @@ enableEmoji = true
   orgLocal = "Chicago"
   description = "Statistics, software, high-frequency trading"
   favicon = "img/favicon.png"
-  logo = "img/ID_telles_1452x1452.png"
+  logo = "/img/beta-tat.png"
   mainSections = ["about", "blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
