@@ -2,3 +2,10 @@
 Thumbs.db
 /public/
 /resources/
+blogdown/md5sum.txt
+content/blogdown/md5sum.txt
+content/collection/*
+content/project/*
+content/talk/*
+content/form/*
+content/elements/*
