@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../submodules/imgs_self"
+		},
+        {
+			"path": "../static",
+		},
+        {
+			"path": "../content",
+            "name": "Content"
+        }
+    ],
+    "settings": {}
+}
