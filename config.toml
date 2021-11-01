@@ -32,8 +32,8 @@ enableEmoji = true
   orgName = "Michael DeCrescenzo"
   orgLocal = "Chicago"
   description = "Statistics, software, high-frequency trading"
-  favicon = "img/favicon.png"
-  logo = "/img/beta-tat.png"
+  favicon = "/img/favicon.png"
+  logo = "/img/logo.png"
   mainSections = ["about", "blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
@@ -42,7 +42,7 @@ enableEmoji = true
   socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/ID_telles_1452x1452.png"
+  sharing_image = "/img/sharing.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "mikedecr"
   

@@ -14,7 +14,7 @@ action_type: text
 
 image_left: true
 images:
-- img/ID_telles_1452x1452.png
+- img/home.png
 
 show_action_link: true
 show_social_links: false
