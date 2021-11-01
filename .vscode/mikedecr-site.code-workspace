@@ -1,15 +1,19 @@
 {
 	"folders": [
-		{
+        {
+            "path": "..",
+            "name": "Home"
+        },
+        {
+			"path": "../content/blog",
+            "name": "Blog"
+        },
+        {
 			"path": "../submodules/imgs_self"
 		},
         {
-			"path": "../static",
-		},
-        {
-			"path": "../content",
-            "name": "Content"
-        }
-    ],
-    "settings": {}
+			"path": "../submodules/dots_blogdown",
+			"name": "Dotfiles - Blogdown"
+		}
+    ]
 }
