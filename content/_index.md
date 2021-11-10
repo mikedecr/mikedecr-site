@@ -5,7 +5,7 @@ subtitle:
     # is a quantitative researcher in Chicago, IL
 description: |
   is a quantitative researcher in Chicago <br>
-  building statistical analyses + software for high-frequency trading
+  building statistical analysis + software for high-frequency trading
 
 text_align_left: true
 action_label: Read More &rarr;
