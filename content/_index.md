@@ -4,9 +4,8 @@ title: Michael DeCrescenzo
 subtitle: 
     # is a quantitative researcher in Chicago, IL
 description: |
-  is a quantitative researcher in Chicago <br>
-  building statistical analysis + software for high-frequency trading
-
+  is a quantitative researcher in Chicago building statistical analysis <br>
+  and software for low-latency / high-frequency trading
 text_align_left: true
 action_label: Read More &rarr;
 action_link: /about
