@@ -11,3 +11,7 @@ content/project/*
 content/talk/*
 content/form/*
 content/elements/*
+
+# this serves as a parking place for WIP blogs and stuff
+# (which is itself a bad practice & should be migrated)
+/detritus/
