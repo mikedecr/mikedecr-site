@@ -15,3 +15,6 @@
 [submodule "content/blog/blogdown_submodules"]
 	path = content/blog/blogdown_submodules
 	url = git@github.com:mikedecr/post_blogdown-submodules.git
+[submodule "content/blog/usable_repos"]
+	path = content/blog/usable_repos
+	url = git@github.com:mikedecr/usable-repos.git
